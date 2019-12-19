@@ -230,6 +230,28 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 
 <hr/>
 
+<hr/>
+
+<h3>Lesson Details: R </h3>
+<p></p>
+<p>Lessons online : <a href="http://swcarpentry.github.io/r-novice-gapminder/">http://swcarpentry.github.io/r-novice-gapminder/</a></p>
+<p>Data to download: <a href="https://raw.githubusercontent.com/resbaz/r-novice-gapminder-files/master/data/gapminder-FiveYearData.csv">https://raw.githubusercontent.com/resbaz/r-novice-gapminder-files/master/data/gapminder-FiveYearData.csv</a></p>
+<p>We are going to download this directly into RStudio if possible however if you need to download to your computer, use the following...</p>
+ <br/> 
+<p>Please unzip after downloading. If you are in Mac or Linux, you can use the following commands:</p>
+<p></p>
+<p>Windows: you can download it and move it to the folder you plan on working in, then unzip it by right clicking</p>
+<p></p>
+<p>Mac:</p>
+<p>curl -O https://raw.githubusercontent.com/resbaz/r-novice-gapminder-files/master/data/gapminder-FiveYearData.csv</p>
+<p></p>
+<p>Linux:</p>
+<p>wget https://raw.githubusercontent.com/resbaz/r-novice-gapminder-files/master/data/gapminder-FiveYearData.csv</p>
+<br/>
+<br/>
+  <p>
+
+
 {% comment %}
 SYLLABUS
 
