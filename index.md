@@ -45,7 +45,7 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 
 <h2><p>Registration is not yet open.</p></h2>
 <p><h3> Please complete this form to be first notified when registration is open:<a href='https://forms.office.com/Pages/ResponsePage.aspx?id=q8h8Wtykm0-_YGZxQEmtYgli2x3zWW9Nt79Pc1vnhxZUMURYSENZV1MyT1pKTFlTTEFON1FYWDIyVSQlQCN0PWcu'>Interested in Workshops</a>
-</p></h3>
+</h3></p>
 
 <h2 id="general">General Information</h2>
 
