@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "Gold Coast G11_3.56 "        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "R for Reproducible Scientific Analysis<br><br>Griffith University <br> Virtual Campus (hosted on Zoom) "        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Griffith University, Virtual Campus"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "au"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
